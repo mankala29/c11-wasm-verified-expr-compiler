@@ -1,0 +1,5 @@
+/target
+.DS_Store
+proofs/.lake/
+proofs/lake-packages/
+proofs/build/
